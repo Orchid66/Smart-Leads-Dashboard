@@ -1,6 +1,6 @@
 # Smart Leads Dashboard
 
-A full-stack lead management dashboard built with the MERN stack + TypeScript.
+A smart dashboard to manage sales leads — track, filter, search, and export leads with role-based access for Admins and Sales users.
 
 ---
 
