@@ -28,7 +28,7 @@ const Dashboard = () => {
   const [status, setStatus] = useState('')
   const [source, setSource] = useState('')
   const [sort, setSort] = useState('latest')
-  const [page, setPage] = useState(1)
+  const [page, setPage] = useState(1) // current page
 
   // Debounce the search input (500ms)
   useEffect(() => {
