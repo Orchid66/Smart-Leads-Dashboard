@@ -100,8 +100,8 @@ docker-compose up --build
 
 This starts MongoDB, the backend, and the frontend together.
 
-- Frontend → http://localhost:3000  
-- Backend API → http://localhost:5000/api  
+- Frontend → https://smart-leads-dashboard-si3t.vercel.app  
+- Backend API → https://smart-leads-dashboard-fgf5.onrender.com/api  
 
 ---
 
@@ -133,7 +133,7 @@ When registering, you can select a role:
 
 See `API_DOCS.md` for the full reference.
 
-Base URL: `http://localhost:5000/api`
+Base URL: `https://smart-leads-dashboard-fgf5.onrender.com/api`
 
 | Method | Route | Auth | Description |
 |--------|-------|------|-------------|
